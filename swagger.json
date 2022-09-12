@@ -15,7 +15,7 @@
       "description": "API de teste"
     },
     {
-      "url": "https://api-articles.herokuapp.com",
+      "url": "https://api-articlestechnology.herokuapp.com",
       "description": "API de produção"
     }
   ],
